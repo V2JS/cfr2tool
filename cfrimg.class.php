@@ -10,11 +10,11 @@ class cfrimg
 
     public function __construct()
     {
-        $this->accessKey = '3680db2ce38bf70658fg620d51245eec';
-        $this->secretKey = '91b8f4bafb17967c7b16fd7c8984of87r4hyb765abfe5486bd262b759ac56c26';
+        $this->accessKey = '36****2ce38bf70658fg620d51245eec';
+        $this->secretKey = '91****bafb17967c7b16fd7c8984of87r4hyb765abfe5486bd262b759ac56c26';
         $this->bucket = 'imgjob';
         $this->region = 'auto';
-        $this->r2AccountId = '89gert8cb65003e141850f956bfc63ed';
+        $this->r2AccountId = '89****8cb65003e141850f956bfc63ed';
         $this->r2Dm = 'https://img.dm.com';
     }
 
