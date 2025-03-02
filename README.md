@@ -1,9 +1,11 @@
-# cfr2tool
-cloudflare R2操作工具集
- r2_uploader_gui.py 项目源地址 [https://github.com/tysonair/Cloudfare-R2-FIle-Uploader](https://github.com/tysonair/Cloudfare-R2-FIle-Uploader)
- 已达包 exe，方便使用
+# cloudflare R2操作工具集
 
-## 配置文件设置
+# r2_uploader_gui.py 
+
+### 项目源地址 [https://github.com/tysonair/Cloudfare-R2-FIle-Uploader](https://github.com/tysonair/Cloudfare-R2-FIle-Uploader)
+ 已打包 exe，方便使用
+
+### 配置文件设置
 
 1. 打开 `config.env` 文件
 2. 填入以下配置信息：
@@ -18,9 +20,11 @@ R2_PUBLIC_DOMAIN=你的R2.dev域名(可选)
 ````
 
 
- cfrimg.class.php 一个文件搞定 Cloudfare-R2-FIle 操作类
+# cfrimg.class.php
 
-## 使用方法
+## 一个文件搞定 Cloudfare-R2-FIle 操作类
+
+### 使用方法
 
 ````
 $cfrimg = new cfrimg();
